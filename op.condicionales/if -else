@@ -1,0 +1,20 @@
+contaseña_almacenada = "jose"
+contraseña_escrita = "jose"
+
+if contaseña_almacenada == contraseña_escrita:
+    print ("iniciando sesion")
+else:
+    print("contraseña equivocada,intente denuevo")
+
+
+
+
+
+
+
+# edad =19
+
+# if edad >=18:
+#     print ("puede pasar")
+# else:
+#     print("no puedes pasar por ser menor de edad")
